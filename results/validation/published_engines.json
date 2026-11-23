@@ -1,0 +1,183 @@
+{
+  "fit_points": 9,
+  "k_mean": 0.17235522002189646,
+  "k_min": 0.14431535980942248,
+  "k_max": 0.1919429739874786,
+  "D_20kN_mean": 0.7707959764917865,
+  "D_20kN_min": 0.6453979094624196,
+  "D_20kN_max": 0.858395075278952,
+  "ours_k": 0.15022423188330997,
+  "ours_D": 0.6718231887175448,
+  "thrust_to_weight_10_35kN": {
+    "mean": 5.205687816220532,
+    "min": 4.753193315332601,
+    "max": 6.628155384356535
+  },
+  "mass_estimate_kg": {
+    "at_mean_TW": 391.7700211682188,
+    "at_highest_TW": 307.69230769230774,
+    "at_lowest_TW": 429.06574394463667
+  },
+  "data": [
+    {
+      "engine": "PW600",
+      "thrust_kN": 6.0,
+      "fan_D_m": 0.36,
+      "bpr": "1.8-2.8",
+      "length_m": 0.67,
+      "mass_t": 0.15,
+      "source": "Wikipedia 'Turbofan' table",
+      "flag": ""
+    },
+    {
+      "engine": "FJ33",
+      "thrust_kN": 6.7,
+      "fan_D_m": 0.53,
+      "bpr": "-",
+      "length_m": 0.98,
+      "mass_t": 0.14,
+      "source": "Wikipedia 'Turbofan' table",
+      "flag": ""
+    },
+    {
+      "engine": "FJ44 (largest)",
+      "thrust_kN": 15.6,
+      "fan_D_m": 0.57,
+      "bpr": "3.3-4.1",
+      "length_m": 2.09,
+      "mass_t": 0.24,
+      "source": "Wikipedia 'Turbofan' table",
+      "flag": ""
+    },
+    {
+      "engine": "PW500",
+      "thrust_kN": 13.3,
+      "fan_D_m": 0.7,
+      "bpr": "3.9",
+      "length_m": 1.52,
+      "mass_t": 0.28,
+      "source": "Wikipedia 'Turbofan' table",
+      "flag": ""
+    },
+    {
+      "engine": "TFE731 (largest)",
+      "thrust_kN": 22.2,
+      "fan_D_m": 0.78,
+      "bpr": "2.66-3.9",
+      "length_m": 2.08,
+      "mass_t": 0.45,
+      "source": "Wikipedia 'Turbofan' table",
+      "flag": ""
+    },
+    {
+      "engine": "HTF7000",
+      "thrust_kN": 28.9,
+      "fan_D_m": 0.87,
+      "bpr": "4.4",
+      "length_m": 2.29,
+      "mass_t": 0.62,
+      "source": "Wikipedia 'Turbofan' table",
+      "flag": ""
+    },
+    {
+      "engine": "AE 3007",
+      "thrust_kN": 33.7,
+      "fan_D_m": 1.11,
+      "bpr": "5.0",
+      "length_m": 2.71,
+      "mass_t": 0.72,
+      "source": "Wikipedia 'Turbofan' table",
+      "flag": ""
+    },
+    {
+      "engine": "CF34 (smallest)",
+      "thrust_kN": 41.0,
+      "fan_D_m": 1.25,
+      "bpr": "5.3-6.3",
+      "length_m": 2.62,
+      "mass_t": 0.74,
+      "source": "Wikipedia 'Turbofan' table",
+      "flag": ""
+    },
+    {
+      "engine": "Silvercrest",
+      "thrust_kN": 50.9,
+      "fan_D_m": 1.08,
+      "bpr": "5.9",
+      "length_m": 1.9,
+      "mass_t": 1.09,
+      "source": "Wikipedia 'Turbofan' table",
+      "flag": ""
+    },
+    {
+      "engine": "PW800",
+      "thrust_kN": 69.7,
+      "fan_D_m": 1.3,
+      "bpr": "5.5",
+      "length_m": null,
+      "mass_t": 1.4,
+      "source": "Wikipedia 'Turbofan' table",
+      "flag": "table length equals the fan size; length not used"
+    },
+    {
+      "engine": "PW300 (largest)",
+      "thrust_kN": 35.6,
+      "fan_D_m": 0.97,
+      "bpr": "3.8-4.5",
+      "length_m": 2.07,
+      "mass_t": 0.47,
+      "source": "Wikipedia 'Turbofan' table",
+      "flag": "0.97 m is given as overall engine diameter in the PW300 article; not used in fit"
+    },
+    {
+      "engine": "HF120",
+      "thrust_kN": 9.1,
+      "fan_D_m": 0.66,
+      "bpr": "2.9",
+      "length_m": 1.51,
+      "mass_t": 0.211,
+      "source": "Wikipedia 'Turbofan' table",
+      "flag": "HF120 article gives 0.66 m as overall diameter; a second HF120 row (BPR 4.43, 0.54 m) conflicts; not used in fit"
+    },
+    {
+      "engine": "CFE738",
+      "thrust_kN": 24.9,
+      "fan_D_m": 0.902,
+      "bpr": "5.3",
+      "length_m": 1.73,
+      "mass_t": null,
+      "source": "Wikipedia 'CFE CFE738'",
+      "flag": ""
+    },
+    {
+      "engine": "PW545A",
+      "thrust_kN": 16.92,
+      "fan_D_m": 0.693,
+      "bpr": "4.10",
+      "length_m": 1.74,
+      "mass_t": null,
+      "source": "Wikipedia 'PW500'",
+      "flag": ""
+    },
+    {
+      "engine": "PW535A",
+      "thrust_kN": 15.12,
+      "fan_D_m": 0.716,
+      "bpr": "2.55",
+      "length_m": 1.62,
+      "mass_t": null,
+      "source": "Wikipedia 'PW500'",
+      "flag": ""
+    },
+    {
+      "engine": "PW530A",
+      "thrust_kN": 12.84,
+      "fan_D_m": 0.584,
+      "bpr": "3.7",
+      "length_m": 1.52,
+      "mass_t": null,
+      "source": "Wikipedia 'PW500'",
+      "flag": ""
+    }
+  ]
+}

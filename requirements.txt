@@ -1,0 +1,6 @@
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+pytest>=7
+# optional, for validation/pycycle_check.py (install from GitHub; PyPI 4.4.0 fails with NumPy 2):
+#   pip install git+https://github.com/OpenMDAO/pyCycle.git
