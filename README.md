@@ -5,6 +5,8 @@ two-spool, separate-flow turbofan for a light-to-midsize business jet
 (about 20 kN takeoff thrust class). Built during the YuvaIntern Propulsion
 Systems internship (October to November 2026).
 
+**📄 [Read the full design report (PDF)](docs/Turbofan_Design_Report.pdf)** · **📊 [Presentation slides](docs/presentation.pdf)**
+
 ## Current design (Week 3, revision A)
 
 | Item | Value |
